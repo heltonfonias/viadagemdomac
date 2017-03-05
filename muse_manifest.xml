@@ -1,25 +1,42 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="viadagemdomac.github.io" resolutions="1x" timestamp="1488725167229">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="viadagemdomac.github.io" resolutions="1x" timestamp="1488728230815">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="22362917" ref="index"/>
+    <file name="site_global.css" crc="4161124139"/>
+    <file name="index.css" crc="4210612691" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="2017-03-05_11-24-54.png" crc="4146481797" seo="true" mt="1488723894000"/>
     <file name="2017-03-05_11-25-11.png" crc="403467767" seo="true" mt="1488723911000"/>
+    <file name="explorer_2017-03-05_11-52-30.png" crc="218639762" seo="true" mt="1488725550000"/>
+    <file name="explorer_2017-03-05_11-52-46.png" crc="335128645" seo="true" mt="1488725566000"/>
+    <file name="chrome_2017-03-05_11-58-01.png" crc="3839735353" seo="true" mt="1488725881000"/>
+    <file name="chrome_2017-03-05_11-58-52.png" crc="371738321" seo="true" mt="1488725932000"/>
+    <file name="steam_2017-03-05_12-02-01.png" crc="4075191725" seo="true" mt="1488726121000"/>
+    <file name="steam_2017-03-05_12-02-11.png" crc="4116719799" seo="true" mt="1488726131000"/>
+    <file name="chrome_2017-03-05_12-13-00.png" crc="255891408" seo="true" mt="1488726780000"/>
+    <file name="chrome_2017-03-05_12-12-29.png" crc="182907260" seo="true" mt="1488726749000"/>
+    <file name="mactypeinstaller_2012_1022_0.exe" crc="29203833" seo="true" mt="1488692443000"/>
+    <file name="atualização-do-mactype-pra-funcionar-no-windows-10.rar" crc="4065707926" seo="true" mt="1488727214000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="4232573551" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="firewatch-wallpaper-desktop-2560x1440-green.jpg" crc="4163723872" ref="index">
+    <file name="firewatch-wallpaper-desktop-2560x1440-green.jpg" crc="352092735" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u132-4.png" crc="3839015923" ref="index"/>
+    <file name="u335-4.png" crc="463329632" ref="index"/>
+    <file name="mactray_2017-03-05_12-23-29.jpg" crc="4022184146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mactray_2017-03-05_12-23-46.jpg" crc="4120373329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4130992179" seo="true" mt="1488725150716" redirect="true"/>
+  <file name="index.html" crc="3833540949" seo="true" mt="1488728195371" redirect="true"/>
 </manifest>
